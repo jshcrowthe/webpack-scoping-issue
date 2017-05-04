@@ -1,0 +1,16 @@
+{
+  "name": "webpack-scoping-issue",
+  "version": "1.0.0",
+  "description": "Webpack Global scope issue",
+  "main": "index.html",
+  "scripts": {
+    "start": "webpack-dev-server --open"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.4.0",
+    "webpack": "^2.5.0",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
